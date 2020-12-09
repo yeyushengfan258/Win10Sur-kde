@@ -46,8 +46,8 @@
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="146.42211"
-     inkscape:cx="419.75366"
+     inkscape:cy="137.24283"
+     inkscape:cx="310.42134"
      inkscape:zoom="2.0000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -298,7 +298,7 @@
             <path
                transform="translate(-121,89.063)"
                d="m 453,86 c -6.648,0 -12,5.352 -12,12 V 115.93555 116 h 29 V 86 Z"
-               style="opacity:1;fill:#0e0e0e;fill-opacity:1;stroke:none;stroke-width:1"
+               style="opacity:1;fill:#161616;fill-opacity:1;stroke:none;stroke-width:1"
                id="rect5073-4-9-6" />
           </g>
         </g>
@@ -506,7 +506,7 @@
          inkscape:connector-curvature="0"
          id="path6092-3"
          d="m 325,175.99994 v 30.00002 h 145 v -30.00002 z"
-         style="opacity:1;fill:#0e0e0e;fill-opacity:1;stroke:none;stroke-width:1" />
+         style="opacity:1;fill:#161616;fill-opacity:1;stroke:none;stroke-width:1" />
       <path
          style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.182575"
          d="m 325,175.99994 v 1.00001 h 145 v -1.00001 z"
@@ -585,7 +585,7 @@
          inkscape:connector-curvature="0"
          id="path6092-3-3"
          d="m 325,176 v 30 h 145 v -30 z"
-         style="opacity:1;fill:#0e0e0e;fill-opacity:1;stroke:none;stroke-width:1" />
+         style="opacity:1;fill:#161616;fill-opacity:1;stroke:none;stroke-width:1" />
     </g>
     <g
        inkscape:label="#decoration-inactive-left"
@@ -751,7 +751,7 @@
           <path
              transform="translate(239,89.0625)"
              d="m 93,86 c -6.648,0 -12,5.352 -12,12 v 18 h 29 V 86 Z"
-             style="opacity:1;fill:#0e0e0e;fill-opacity:1;stroke:none;stroke-width:1"
+             style="opacity:1;fill:#161616;fill-opacity:1;stroke:none;stroke-width:1"
              id="path1023" />
           <path
              id="path961"
