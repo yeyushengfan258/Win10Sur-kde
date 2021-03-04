@@ -13,7 +13,7 @@
    version="1.1"
    id="svg22"
    sodipodi:docname="view.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="932"
+     inkscape:window-height="942"
      id="namedview24"
      showgrid="true"
-     inkscape:zoom="15.999999"
-     inkscape:cx="13.443011"
-     inkscape:cy="18.528392"
+     inkscape:zoom="11.313708"
+     inkscape:cx="26.9611"
+     inkscape:cy="18.536554"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg22"
      inkscape:snap-bbox="true"
@@ -190,28 +190,6 @@
        y2="819.08"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient1107" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1681"
-       id="linearGradient1731"
-       gradientUnits="userSpaceOnUse"
-       x1="27"
-       y1="65"
-       x2="5"
-       y2="43"
-       gradientTransform="translate(0,-38)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1681">
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1"
-         offset="0"
-         id="stop1677" />
-      <stop
-         style="stop-color:#ffff00;stop-opacity:1"
-         offset="1"
-         id="stop1679" />
-    </linearGradient>
   </defs>
   <g
      id="view-refresh"
@@ -227,7 +205,7 @@
     <g
        id="g905">
       <rect
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect1036"
          width="4"
          height="1"
@@ -236,7 +214,7 @@
          ry="0.5"
          transform="matrix(0,1,1,0,0,0)" />
       <path
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999806;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999806;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
          d="M -52.814453 16.851562 C -53.575593 16.908481 -54.338133 17.100022 -55.064453 17.4375 A 0.49990299 0.49990299 0 0 0 -55.306641 18.101562 A 0.49990299 0.49990299 0 0 0 -54.642578 18.345703 C -52.178193 17.20065 -49.255439 18.020252 -47.748047 20.28125 C -46.240655 22.542248 -46.606583 25.556139 -48.611328 27.390625 C -50.616073 29.225111 -53.650844 29.322713 -55.769531 27.621094 C -57.888218 25.919474 -58.446598 22.937335 -57.087891 20.583984 A 0.49990299 0.49990299 0 0 0 -57.271484 19.900391 A 0.49990299 0.49990299 0 0 0 -57.953125 20.083984 C -59.554914 22.858364 -58.892265 26.394341 -56.394531 28.400391 C -53.896798 30.40644 -50.300907 30.291593 -47.9375 28.128906 C -45.574093 25.966219 -45.138942 22.392067 -46.916016 19.726562 C -48.248821 17.727434 -50.531032 16.680806 -52.814453 16.851562 z "
          id="path927"
          transform="matrix(0.70708849,-0.70712507,0.70708849,0.70712507,0,0)" />
@@ -248,26 +226,26 @@
          height="1"
          width="4"
          id="rect1363"
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
       <g
          id="g897">
         <rect
-           style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.707107;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect865"
            width="1"
            height="4"
-           x="-20.898481"
+           x="-21.004173"
            y="50"
            ry="0.5" />
         <rect
            transform="rotate(135)"
            ry="0.5"
-           y="-26.904221"
-           x="51.756847"
+           y="-26.829485"
+           x="51.831581"
            height="4"
            width="1"
            id="rect885"
-           style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.707107;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
@@ -313,32 +291,35 @@
      r="0"
      cy="-1289.701"
      cx="-1210.1377" />
-  <circle
-     r="14.5"
-     cy="-20"
-     cx="16"
-     id="path6762"
-     style="fill:none;fill-opacity:1;stroke:#eaeaea;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     transform="rotate(-90)"
-     ry="1"
-     y="15"
-     x="18"
-     height="2"
-     width="9"
-     id="rect914"
-     style="fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1.73204;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1.73204;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect878"
-     width="9"
-     height="2"
-     x="-5.8799658"
-     y="23.748737"
-     ry="1"
-     transform="rotate(-135)" />
+     id="rect8-6-2"
+     style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
+     ry="0"
+     rx="0"
+     height="32"
+     width="32"
+     y="-1.2834001e-09"
+     x="-45" />
   <g
      id="view-history">
+    <rect
+       transform="rotate(-90)"
+       ry="1"
+       y="15"
+       x="-17.999998"
+       height="2"
+       width="9"
+       id="rect914"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.73204;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.73204;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect878"
+       width="9"
+       height="2"
+       x="-31.33581"
+       y="-1.7071052"
+       ry="1"
+       transform="rotate(-135)" />
     <rect
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1129-7-0"
@@ -348,9 +329,11 @@
        y="1.1025606e-07"
        rx="0"
        ry="0" />
-    <path
-       id="path1729"
-       style="fill:url(#linearGradient1731);fill-opacity:1;stroke-width:1.934;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 15.886719,1.0000535 A 15,15 0 0 0 1,16.000053 a 15,15 0 0 0 15,15 15,15 0 0 0 15,-15 15,15 0 0 0 -15,-14.9999995 15,15 0 0 0 -0.113281,0 z m 0.113281,3 a 12,12 0 0 1 12,11.9999995 12,12 0 0 1 -12,12 12,12 0 0 1 -12,-12 12,12 0 0 1 12,-11.9999995 z m 0,5 c -0.831,0 -1.5,0.669 -1.5,1.4999995 v 6 c 0,0.430055 0.180675,0.814881 0.46875,1.087891 l 4.216797,4.216797 c 0.587606,0.587604 1.533488,0.587604 2.121094,0 0.587605,-0.587606 0.587605,-1.533489 0,-2.121094 L 17.5,15.877006 V 10.500053 C 17.5,9.6690535 16.831,9.0000535 16,9.0000535 Z" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3264"
+       cx="16"
+       cy="16"
+       r="14" />
   </g>
 </svg>

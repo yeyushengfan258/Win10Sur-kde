@@ -26,9 +26,9 @@
      inkscape:window-height="932"
      id="namedview15"
      showgrid="true"
-     inkscape:zoom="8.6931818"
-     inkscape:cx="-24.736265"
-     inkscape:cy="0.95374079"
+     inkscape:zoom="17.386364"
+     inkscape:cx="5.4155516"
+     inkscape:cy="-20.904208"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -74,7 +74,7 @@
      class="ColorScheme-Text"
      fill="currentColor">
     <path
-       d="M 6.5714286,4 C 5.1468571,4 4,5.1468571 4,6.5714286 V 25.428571 C 4,26.853143 5.1468571,28 6.5714286,28 H 11 V 10.857143 h 8 V 4 Z M 21,4 v 24 h 4.428571 C 26.853143,28 28,26.853143 28,25.428571 V 6.5714286 C 28,5.1468571 26.853143,4 25.428571,4 Z m -8,8.571429 V 28 h 6 V 12.571429 Z"
+       d="M 6.5714286,4 C 5.1468571,4 4,5.1468571 4,6.5714286 V 25.428571 C 4,26.853143 5.1468571,28 6.5714286,28 H 11 V 11 h 8 V 4 Z M 21,4 v 24 h 4.428571 C 26.853143,28 28,26.853143 28,25.428571 V 6.5714286 C 28,5.1468571 26.853143,4 25.428571,4 Z m -8,9 v 15 h 6 V 13 Z"
        stroke-width="1.2"
        id="path12"
        sodipodi:nodetypes="ssssccccsccsssscccccc" />
