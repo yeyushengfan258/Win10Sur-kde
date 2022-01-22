@@ -26,7 +26,7 @@
      id="namedview86"
      showgrid="true"
      inkscape:zoom="8.806818"
-     inkscape:cx="-13.796129"
+     inkscape:cx="-15.84"
      inkscape:cy="-4.7690324"
      inkscape:window-x="0"
      inkscape:window-y="40"
@@ -230,16 +230,9 @@
        transform="translate(0.5)">
       <rect
          style="fill:#fefefe;fill-opacity:1"
-         id="rect947"
-         width="2"
-         height="2"
-         x="7.5"
-         y="16" />
-      <rect
-         style="fill:#fefefe;fill-opacity:1"
          id="rect1187"
          height="2"
-         x="11.5"
+         x="9.5"
          y="16"
          width="2" />
     </g>
@@ -322,14 +315,14 @@
          id="rect1104"
          width="2"
          height="3"
-         x="43"
+         x="42"
          y="-11" />
       <rect
          style="fill:#fefefe;fill-opacity:1;stroke-width:1.22474"
          id="rect1106"
          width="2"
          height="3"
-         x="47"
+         x="48"
          y="-11" />
       <rect
          style="fill:#fefefe;fill-opacity:1;stroke-width:2.64575"

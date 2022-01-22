@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="applications.svg"
    id="svg19"
    viewBox="0 0 32 32"
    version="1.1"
    height="32"
-   width="32">
+   width="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata23">
     <rdf:RDF>
@@ -31,11 +31,11 @@
      inkscape:snap-nodes="true"
      inkscape:current-layer="svg19"
      inkscape:window-maximized="1"
-     inkscape:window-y="38"
+     inkscape:window-y="40"
      inkscape:window-x="0"
-     inkscape:cy="22.395319"
-     inkscape:cx="-16.187841"
-     inkscape:zoom="10.429825"
+     inkscape:cy="21.764507"
+     inkscape:cx="-24.808662"
+     inkscape:zoom="20.85965"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
@@ -43,7 +43,7 @@
      inkscape:snap-bbox="true"
      showgrid="true"
      id="namedview21"
-     inkscape:window-height="942"
+     inkscape:window-height="965"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -52,7 +52,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#c8c8c8">
+     pagecolor="#c8c8c8"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid848"
        type="xygrid" />
@@ -2512,37 +2513,37 @@
        style="opacity:0;stroke-width:1.375;paint-order:fill markers stroke"
        id="rect1619" />
     <rect
-       ry="1"
-       y="14"
-       x="-33"
-       height="6"
-       width="6"
+       ry="1.1666666"
+       y="13"
+       x="-34"
+       height="7"
+       width="7"
        id="rect1621"
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1623"
-       width="6"
-       height="6"
-       x="-24"
-       y="14"
-       ry="1" />
+       width="7"
+       height="7"
+       x="-25"
+       y="13"
+       ry="1.1666666" />
     <rect
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1625"
-       width="6"
-       height="6"
-       x="-33"
+       width="7"
+       height="7"
+       x="-34"
        y="22"
-       ry="1" />
+       ry="1.1666666" />
     <rect
-       ry="1"
+       ry="1.1666666"
        y="22"
-       x="-24"
-       height="6"
-       width="6"
+       x="-25"
+       height="7"
+       width="7"
        id="rect1627"
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      id="applications-other">
